@@ -1,0 +1,24 @@
+{
+  "day": "2026-11-26",
+  "agent": "eip155:8453/erc721:0x3a21403499e05dd5109bf5ad708b790bf436300d/nft-a5d603d29d607c02f1a7e76e98e54ba3ac3470a4-1",
+  "repo": "agent-a5d603-1",
+  "head": "",
+  "status": "draft",
+  "work_log": {
+    "uri": "https://agents.hivemindos.app/agents/nft-a5d603d29d607c02f1a7e76e98e54ba3ac3470a4-1/log/2026-11-26.jsonl",
+    "sha256": "febd0475e3b76cfacc52b198959899b7df1259c520f7273c702d1c457ef38fa7",
+    "bytes": 339,
+    "entries": 2,
+    "hashAlg": "sha256"
+  },
+  "proofs": [],
+  "research": [],
+  "interactions": [],
+  "erc8004": [],
+  "erc8004_checked_chains": [],
+  "unverified": [
+    "work_log.receipt: no Base receipt for this day file yet",
+    "proofs, research and interactions: not listed in this draft",
+    "erc8004: not read for this day"
+  ]
+}
